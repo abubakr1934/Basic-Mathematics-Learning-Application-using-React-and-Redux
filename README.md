@@ -1,4 +1,5 @@
 https://mathsforfun.netlify.app/
+![image](https://github.com/abubakr1934/Basic-Mathematics-Learning-Application-using-React-and-Redux/assets/115393179/68c1c1d8-3387-40f8-a951-68fb619feccd)
 
 The Counter Application is a simple interactive tool designed to demonstrate basic state management using React and Redux. Users can increment or decrement a counter by 1 and input custom values for incrementing or decrementing.
 
